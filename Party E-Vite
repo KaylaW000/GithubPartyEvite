@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+       <title>Project: Event invite</title> 
+        <style>
+            
+        </style>
+    </head>
+    <body style= "background-color: lightblue;"> </body>
+        
+    
+       <style> 
+           h1 {
+               color: #E6E6FA ;
+           }
+           
+           h2 {
+               color: #728FCE ;
+           }
+           
+           p {
+               color: rgb (159, 168, 218);
+           }
+       </style>
+       
+        <h1><em>Your Invited To Kayla's Beach Party! 
+        </em></h1>
+           
+        <h2>Let's Have Endless Fun!</h2>
+        
+       
+        <p class= "whitetext"> </p>
+        
+     <img> src= "https://travel2next.com/wp-content/uploads/wildwood-beach.jpg" 
+   
+   <br> 
+
+        
+           <br> <em> 
+               <b>Saturday, July 13th @ 2pm; Location: </b> </em>
+                
+     <em> <b> Wildwood, New Jersery </b> </em>
+                 
+    <br> 
+  
+   <p> <b> Red Carpet Entrance </b></p>
+   <p> <b> Unlimited Buffet </b> </p>
+    <p> <b> Unlimited Tickets for Rides & Games; Children 17 and under </b></p>
+    <p> <b> Resident DJ </b> </p>
+    <p> <b> Unlimited Photobooth </b> </p>
+    <p> <b> Afterparty @ 8pm: Icona Diamond Beach Resort </b></p> 
+                 
+                
+<img> src= "https://a.travel-assets.com/ugc/hotel-reviews/CC509446B88E46BD934E0B7140761D25ED707E4A1534777752648.jpg?resize=360:*
+
+<br>        
+
+<p> <em> Party and Socialize with Friends and Family, Enjoy the Beautiful Scenery & Delicious Food and Just Have A Great Time! </em></p>
+ 
+ <br>
+ <p> <em> To claim your reservation, text 111-111-111. State your name and the number of guests your bringing by July 1st!</em></p>
+ </html>    
